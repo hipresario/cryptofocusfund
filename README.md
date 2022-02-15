@@ -1,2 +1,2 @@
-# cryptofocusfund
-crypto focus fund
+# chinafocusfund
+China Focus Fund
